@@ -5,5 +5,7 @@ opencv-python
 prophet
 tensorflow
 scikit-learn
+scipy
 japanize-matplotlib
 openpyxl
+jupyterlab

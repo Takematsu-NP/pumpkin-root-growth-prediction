@@ -44,6 +44,7 @@
 * scipy (Curve fitting用)
 * japanize-matplotlib
 * openpyxl
+* jupyterlab
 
 ### Experiment (Raspberry Pi)
 * Python 3.11.2
